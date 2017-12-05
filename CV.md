@@ -4,7 +4,9 @@
 <p><img src="./jan.jpg" align="right" height="120" width="150">
 <h1>Jan Schjønning</h1>
 <h2>Senior java udvikler</h2>
+<br/>
 </p>
+
 
 [Birgits Alle 9, 5250 Odense SV](https://www.google.dk/maps/place/Birgits+Alle+9,+5250+Odense+SV/@55.350654,10.3417089,17z/data=!4m2!3m1!1s0x464cdf6d0011f06f:0xbac5337e40eaf3ac?hl=en)
 
@@ -14,11 +16,14 @@ Mobil : 40344403
 
 
 
-------
+---------------
 
 ### Resume
 
-Erfaren og rutineret system udvikler og arkitekt, som lægger vægt på sikre driftstabile løsninger, der opfylder forretnings krav. Afprøvet teknologi, fleksible løsninger og fremtidssikre valg baseret på industristandarder, er min overordnede navigation for løsningsvalg. 
+Kompetent og erfaren udvikler med bred projekt erfaring fra udvikling over arkitektur til techlead. Ekspert i Java og hurtigt til at sætte sig ind i nye teknologier og domæner, har erfaring med offshore udvikling, og adrætte metoder og processer i flere forskellige projekter.
+Jan har mange års erfaring i design og udvikling af software til telesektoren og medie branchen med fokus på industristandarder, flexibilitet og stabilitet. Jan har erfaring i brugergrænsefladedesign og -udvikling, herunder Android (eks. Tv-guiden tvtid) – men primært som indgangsvinkel til design af API og services.
+God at bruge den brede erfaring til at få hurtigt overblik i alle tekniske aspekter af et projekt/i et forretnings domæne. Dette gør, at Jan arbejder meget målrettet og pragmatisk i det daglige og har stor fokus på kvalitet med hensyntagen til projekt leverancen. 
+Jan har de seneste 5 år primært arbejdet i agilt udviklings miljø, og har erfaring med Scrum og relaterede metoder. 
 
 ------
 
@@ -128,7 +133,7 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
  **Udviklings miljø** PHP, Drupal. 
 
 * **Retailmanagement**
-	Arkitekt og løsningansvarlig for indførelse af Product Hub, Ordermanagement, Service api 	til CRM system. Stort 2 årigt rightshore projekt, primært med indiske medarbejdere. Design af komplet produkt struktur(SID model)  dækkende alle TDC's produker. "Konfigurering" af 	OSM - dvs design af ordermanagement workflow med integration til TDC Mobil og fastnet systemer. Projektet var første del af et stort EA projekt som skulle gøre det muligt at betjene alle typer kunder på samme platform. Projektet indebar ophold i Inden 2x1måned.
+	Løsnins Arkitekt på implementering af Product Hub, Ordermanagement, Service api 	til CRM system. Stort 2 årigt rightshore projekt, primært med indiske medarbejdere. Design af komplet produkt struktur(SID model)  dækkende alle TDC's produker. "Konfigurering" af 	OSM - dvs design af ordermanagement workflow med integration til TDC Mobil og fastnet systemer. Projektet var første del af et stort EA projekt som skulle gøre det muligt at betjene alle typer kunder på samme platform. Projektet indebar ophold i Inden 2x1måned.
 	 **Udviklings miljø** Java, Oracle Osm, weblogic samt databaser, XML/XSLT.
 
 
@@ -137,12 +142,12 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
 	**Udviklings miljø** Java, Oracle weblogic samt databaser.
 
 * **AKS Aktiv Kredit Sikring**
-	Design og implementering af replikeret kredit data fra RKI.
+	Design og implementering af services baseret på replikeret kredit data fra RKI.
 	**Udviklings miljø** Java, Oracle weblogic samt databaser.
 
-* **Ratting**
-	Implementering af penge.
-	**Udviklings miljø** Java, Oracle weblogic samt databaser.
+* **Rating dokumentation**
+	Implementering og tilretning af Amdocs Ensemble rating flow for at kunne dokumentere penge strøm.
+	**Udviklings miljø** Cobol, bash, Oracle Db.
 	
 * **Udskiftning af provisioneringssystem**
 	Udskiftning af TDC Mobil provisioneringplatform til Comtel InstantLink.  Platformen er integration mellem CRM systemer og Teleteknisk udstyr.	Løsningsansvarlig i 3 mands team, som forestod konfigurering, omfattende systematisk 	paralleltest med efterfølgende problemfri idriftsætelse.
@@ -193,7 +198,7 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
 	Tietgenskolen, Aftenskolen, Odense
 	
 ------	
-### Kurser  
+### Kurser 
 	
 * **Relationsdatabaser** __1984 og 1989__
 	Cood & Date/v Date, København	
@@ -215,5 +220,5 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
 ------	
 ### Civilstand
 	
-* Gift med Kirsten og far til Amalie(28, Cand.mag. Art), Kristian(26, Stud. Diplomingeniør) og Anders(19, Værnepligtig)	
+* Gift med Kirsten(Pædagog) og far til Amalie(28, Cand.mag. Art), Kristian(26, Stud. IT Diplomingeniør) og Anders(19, Værnepligtig)	
 	
