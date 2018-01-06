@@ -133,7 +133,7 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
  **Udviklings miljø** PHP, Drupal. 
 
 * **Retailmanagement**
-	Løsnins Arkitekt på implementering af Product Hub, Ordermanagement, Service api 	til CRM system. Stort 2 årigt rightshore projekt, primært med indiske medarbejdere. Design af komplet produkt struktur(SID model)  dækkende alle TDC's produker. "Konfigurering" af 	OSM - dvs design af ordermanagement workflow med integration til TDC Mobil og fastnet systemer. Projektet var første del af et stort EA projekt som skulle gøre det muligt at betjene alle typer kunder på samme platform. Projektet indebar ophold i Inden 2x1måned.
+	Løsnins Arkitekt på implementering af Product Hub, Ordermanagement, Service api 	til CRM system. Stort 2 årigt rightshore projekt, primært med indiske medarbejdere. Design af komplet produkt struktur(SID model)  dækkende alle TDC's produker. "Konfigurering" af 	OSM - dvs design af ordermanagement workflow med integration til TDC Mobil og fastnet systemer. Projektet var første del af et stort EA projekt som skulle gøre det muligt at betjene alle typer kunder på samme platform. Projektet indebar ophold i Indien 2x1måned.
 	 **Udviklings miljø** Java, Oracle Osm, weblogic samt databaser, XML/XSLT.
 
 
@@ -200,20 +200,90 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
 ------	
 ### Kurser 
 	
+* **Merkonom Ledelse & samarbejde** __1982__
+	Tietgenskolen, Odense
+* **Merkonom Virksomhedsorganisation** __1982__
+	Tietgenskolen, Odense		
+* **Merkonom Virksomhedsøkonimi** __1982__
+	Tietgenskolen, Odense		
+* **Struktureret Programmering, Grundkursus** __1983__
+	NCR, Nordisk Uddannelses Center	
+* **Struktureret Programmering, Videregående** __1983__
+	NCR, Nordisk Uddannelses Center
+* **Database Programmering & Description** __1984__
+  Honeywell Bull, København
+* **Database Analyse og Design** __1985__	Honeywell Bull, København
 * **Relationsdatabaser** __1984 og 1989__
 	Cood & Date/v Date, København	
-* **Amdocs Ensample development** __2000__
+* **ISPF/CLIST/DB2 Adv. app** __1988__
+	DC, København	
+* **RDB Fyssik design og Administration** __1989__
+	Digital, København	
+* **Tandem Special Intro** __1994__
+	Tandem, Århus	
+* **NonStop SQL** __1995__
+	Tandem, Århus	
+* **Praktisk objectorienteret design** __1996__
+	Niveau, København	
+* **Logisk datamodellering** __1997__
+	Niveau, København	
+* **Datanom Objectorienteret programmering** __1998__
+	Tietgen skolen, Odense	
+* **Technical Reviews for COOL:GEN Applications** __1998__
+	Beaver, København	
+* **DB2 for COOL:GEN Developers** __1998__
+	Beaver, København	
+* **Microsoft SQL Server 7.0 Systemadministration** __1998__
+	DTI, Århus	
+* **Amdocs Ensample development (294 timer)** __2000__
 	Amdocs, TDC kursuslokaler, Odense
-* **Java certificering** __2005__
+* **JAOO Conference** __2002__
+   Århus
+* **Klassemodellering** __2002__
+   TietoEnator, København
+* **Logisk design** __2002__
+   TietoEnator, København
+* **Udvikling med Java 2 Enterpricse Edition** __2002__
+   TietoEnator, København
+* **Comptel InstantLink Overview and Administration & Cgf** __2003__
+   Comptel, Helsinki   
+* **InstantLink Business Service Tool** __2003__
+   Comptel, Helsinki   
+* **Repair Work Station, Provisioning Client** __2003__
+   Comptel, Helsinki  
+* **JAOO Conference** __2004__
+   Århus    
+* **JAOO Conference** __2005__
+   Århus 
+* **Java 2 Platform, Sun Certified Programmer** __2006__
 	Selvstudie, Odense	
 * **SOA arkitektur** __2006__
 	Capgemini, University, Paris
+* **ZapThink Architect (SOA)** __2008__
+	ZapThink , København	
 * **Enterprise arkitektur** __2007__
-	Capgemini, University, Paris	
+	Capgemini, University, Paris
+* **Order and Service Management** __2009__
+	Oracle, University, Stockholm		
 * **SCRUM master** __2010__
 	Jeff Sutherland, Trifork, Århus
-* **Android udvikling** __2014__
+* **Android Programmering Grundkursus** __2014__
 	Super Users, Hillerød		
+* **Android Programmering Workshop** __2014__
+	Super Users, Hillerød		
+* **Android Programmering Brugergrænseflade** __2014__
+	Super Users, Hillerød		
+* **Android Programmering Videregående** __2014__
+	Super Users, Hillerød		
+* **Mulesoft Connect, conference** __2015__
+	Mulesoft, London		
+* **Apache Camel, Selvstudie** __2015__
+* **Serveless workshop** __2016__
+ Amazon og Jan Schjønning, Odense
+* **Microservice med Apache Camel workshop** __2016__
+ Jan Schjønning, Odense 
+* **Clean Code, Selvstudie af bogen** __2016__
+* **Clean Code, Webinar (video 1-5)** __2016__
 * **Architecting on AWS** __2017__
 	Nordcloud, København	
 	
