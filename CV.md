@@ -9,7 +9,9 @@
 
 
 [Birgits Alle 9, 5250 Odense SV](https://www.google.dk/maps/place/Birgits+Alle+9,+5250+Odense+SV/@55.350654,10.3417089,17z/data=!4m2!3m1!1s0x464cdf6d0011f06f:0xbac5337e40eaf3ac?hl=en)
-
+<br/>
+Årgang : 1958
+<br/>
 Mobil : 40344403  
 [LinkedIn](https://www.linkedin.com/in/jan-schjønning-3208a54 )  
 [jan.schjoenning@gmail.com](mailto:jan.schjoenning@gmail.com)
@@ -69,7 +71,7 @@ Kompetent og erfaren udvikler med bred projekt erfaring fra udvikling over arkit
 **Teledanmark EDB** *Databaseadministrator* __1994 to 1998__
 	Insourcing og vedligeholdelse af komplet Kunde,Ordre,Fakturering/trafik system.
 	Fratrådt grundet stop af nyudviklingsaktiviteter.
-	**Udviklings miljø** Digital RDB, ACMS, Pascal, Cobol, Tandem NonstopSQL).
+	**Udviklings miljø** Digital RDB, ACMS, Pascal, Cobol, Tandem NonstopSQL.
 
 **Fyns Telefon** *Databaseadministrator* __1989 to 1994__
 Virksomhedsoverdraget til Teledanmark.
@@ -134,16 +136,16 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
 
 * **Retailmanagement**
 	Løsnins Arkitekt på implementering af Product Hub, Ordermanagement, Service api 	til CRM system. Stort 2 årigt rightshore projekt, primært med indiske medarbejdere. Design af komplet produkt struktur(SID model)  dækkende alle TDC's produker. "Konfigurering" af 	OSM - dvs design af ordermanagement workflow med integration til TDC Mobil og fastnet systemer. Projektet var første del af et stort EA projekt som skulle gøre det muligt at betjene alle typer kunder på samme platform. Projektet indebar ophold i Indien 2x1måned.
-	 **Udviklings miljø** Java, Oracle Osm, weblogic samt databaser, XML/XSLT.
+	 **Udviklings miljø** Java, Oracle Osm, Weblogic samt databaser, XML/XSLT.
 
 
 * **Outsourcing**
 	Uddannelse og overdragelse af al integration til det Indiske backoffice, hvilket indebar  	5 ugers ophold i Indien.
-	**Udviklings miljø** Java, Oracle weblogic samt databaser.
+	**Udviklings miljø** Java, Oracle Weblogic samt databaser.
 
 * **AKS Aktiv Kredit Sikring**
 	Design og implementering af services baseret på replikeret kredit data fra RKI.
-	**Udviklings miljø** Java, Oracle weblogic samt databaser.
+	**Udviklings miljø** Java, Oracle Weblogic samt databaser.
 
 * **Rating dokumentation**
 	Implementering og tilretning af Amdocs Ensemble rating flow for at kunne dokumentere penge strøm.
@@ -155,11 +157,11 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
 	
 * **B2B api-gateway**
 	Design og implementering af api til brug for alle TDC service providere. Service interface for mere end 2m abonnenter.
-	**Udviklings miljø** Java, SOAP, Oracle weblogic samt databaser.
+	**Udviklings miljø** Java, SOAP, Oracle Weblogic samt databaser.
 	
 * **Amdocs api**
 	Design og implementering af api til Amdocs ensamble CC&B system. 
-	**Udviklings miljø** Java, Oracle weblogic.		
+	**Udviklings miljø** Java, Oracle Weblogic.		
 * **NABS Migrering**
 	Primært beskæftiget design og implementering af produkt/installment konverterings regler 	fra egenudviklet system til Amdocs ensamble CC&B system. TDC's ledelse benævnte det 	Danmarks største og mest succesfulde migreringsprojekt. 
 	**Udviklings miljø** Cobol, Oracle, PL/SQL.
