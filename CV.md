@@ -25,7 +25,7 @@ Mobil : 40344403
 Kompetent og erfaren udvikler med bred projekt erfaring fra udvikling over arkitektur til techlead. Ekspert i Java og hurtigt til at sætte sig ind i nye teknologier og domæner, har erfaring med offshore udvikling, og adrætte metoder og processer i flere forskellige projekter.
 Jan har mange års erfaring i design og udvikling af software til telesektoren og medie branchen med fokus på industristandarder, flexibilitet og stabilitet. Jan har erfaring i brugergrænsefladedesign og -udvikling, herunder Android (eks. Tv-guiden tvtid) – men primært som indgangsvinkel til design af API og services.
 God at bruge den brede erfaring til at få hurtigt overblik i alle tekniske aspekter af et projekt/i et forretnings domæne. Dette gør, at Jan arbejder meget målrettet og pragmatisk i det daglige og har stor fokus på kvalitet med hensyntagen til projekt leverancen. 
-Jan har de seneste 5 år primært arbejdet i agilt udviklings miljø, og har erfaring med Scrum og relaterede metoder. 
+
 
 ------
 
@@ -38,10 +38,11 @@ Kompetent og erfaren udvikler med bred projekt erfaring fra udvikling over arkit
 1. Jetty
 1. PostgreSQL / MySQL / Elasticsearch
 1. Github 
-1. Gradle/maven
+1. Gradle/Maven
 1. Docker, Rancher
 2. Eclipse, IntelliJ
 2. Jira, Confluence
+3. Spring-boot
 
 
 ------
@@ -50,17 +51,21 @@ Kompetent og erfaren udvikler med bred projekt erfaring fra udvikling over arkit
 
 ### Erhvervserfaring
 
+**Dynamic** *Konsulent* __2018 til 2018__
+	Design og implementering af dashboard til medie bureauer.
+**Udviklings miljø** Java, Spring Boot, Tomcat, MySQL, Cassandra.
+
 **TV 2** *Mobil arkitekt* __2013 til 2017__
-	Design og implementering af content services til mobile enheder. 
+	Design og udvikling af REST API, SOA/Microservices til forskelligt content.
 	**Udviklings miljø** Java, jetty, Postgres MySQL, linux, Docker, Rancher, Apache Camel, Elasticsearch.
 
 **Capgemini** *Managing Consultant* __2006 to 2013__
-	Enterprise/Løsnings-arkitekt indenfor en ApplicationManagement kontrakt med TDC. En 	rightshore kontrakt, som gradvist blev transiteret til backoffice i Inden - sluttende 	med et 	split på ca. 10/90. Sidste store opgave var 1. del af et EA program, idførelse 	af en SOA arkitektur - med producthub,ordermanagement mv.
+	Enterprise/Løsnings-arkitekt indenfor en ApplicationManagement kontrakt med TDC. En 	rightshore kontrakt, som gradvist blev transiteret til backoffice i Inden - sluttende 	med et 	split på ca. 10/90. Sidste store opgave var 1. del af et EA program, indførelse 	af en SOA arkitektur - med producthub, ordermanagement mv.
 	Fratrådt i forbindelse med assignment hos TV 2 og nedluking 	af kontoret i Odense.
 	**Udviklings miljø** Java, Weblogic, Oracle, OSM.
 
 **TDC** *IT Arkitekt* __1999 to 2006__
-	Vedligeholde og optimering af Mobilsystem til øgede trafikmængder.Migrering til ny 	platform. Løsningsarkitekt for integration.
+	Vedligeholde og optimering af onpremise Mobilsystem til øgede trafikmængder. Migrering til ny COTS	platform. Løsningsarkitekt i integrations team.
 	Virksomhedsoverdraget til Capgemini.
 	**Udviklings miljø** Cobol, Java, Weblogic, Oracle, Tandem NonstopSQL).
 	
@@ -69,8 +74,6 @@ Kompetent og erfaren udvikler med bred projekt erfaring fra udvikling over arkit
 **Udviklings miljø** SQL Server, Oracle, Cool gen, DB2.
 
 **Teledanmark EDB** *Databaseadministrator* __1994 to 1998__
-	Insourcing og vedligeholdelse af komplet Kunde,Ordre,Fakturering/trafik system.
-	Fratrådt grundet stop af nyudviklingsaktiviteter.
 	**Udviklings miljø** Digital RDB, ACMS, Pascal, Cobol, Tandem NonstopSQL.
 
 **Fyns Telefon** *Databaseadministrator* __1989 to 1994__
@@ -78,15 +81,12 @@ Virksomhedsoverdraget til Teledanmark.
 	**Udviklings miljø** Digital RDB, ACMS, Pascal).
 
 **ISS Data** *IRM - Information Resource Manager* __1987 to 1989__
-Fratrådt grundet familieforøgelse.
 	**Udviklings miljø** DB2, Cobol, CSP, CICS.
 
 **Carlsberg** *Programmør* __1984 to 1987__
-Fratrådt grundet ønske om fokusering på databaser.
 	**Udviklings miljø** Cobol, CSP, CICS, DB2.
 
 **JDC Data** *Programmør* __1982 to 1984__
-	Udvikling og vedligeholdelse af revisorsystem på central NCR samt decentral micro 	computer.
 	**Udviklings miljø** Cobol, PL1.
 
 **Fyns Data Service/JDC Data** *Operatør - holdleder* __1980 to 1982__
@@ -101,22 +101,25 @@ Fratrådt grundet ønske om fokusering på databaser.
 ------
 
 ### Projekter
+* **Dashboard**
+Design og udvikling af dashboard til brug for reklame bureauer. Integration til Facebook, Adwords samt andre reklame platforme.
+ **Udviklings miljø** Java, Maven, PostgreSQL, Tomcat, Spring-boot, JPA, Docker.
 
 * **EPG**
-Design og implementering af services til fælles EPG på tværs af klienter i TV-Anytime format. Datagrundlag for tvtid, presse samt streaming tjenesten PLAY.
+Design og udvikling af REST services til fælles EPG på tværs af klienter i TV-Anytime format. Datagrundlag for tvtid, presse samt streaming tjenesten PLAY. Integration til inhouse system og Ritzau. 
  **Udviklings miljø** Java, Maven, PostgreSQL, Jetty, Apache Camel, Elasticsearch, Docker, Rancher.
 
 * **Sportdata**
-	Design og implementering af REST services til understøttelse af TV 2 Sportcenter app til mobile devices.
+	Design og udvikling af REST services til understøttelse af TV 2 Sportcenter app til mobile devices. Integration til Enet, Infostrada med flere.
  **Udviklings miljø** Java, Gradle, PostgreSQL, Jetty.
 
 * **OVP**
-	Design og implementering af platform til understøttelse af api udvikling til brug for 	streamingtjenesten PLAY. Principper for microservices blev anvendt
+	Design og udvikling af platform til understøttelse af api udvikling til brug for streamingtjenesten PLAY. Principper for microservices blev anvendt
  **Udviklings miljø** Java, PostgreSQL, Jetty, Docker, Rancher.
 
 * **Content management**
-	Design og implementering af service component til alt skrevet content. Søgning mv 	understøttet af replikering til ElasticSearch.
-  **Udviklings miljø** Java, Postgres, jetty, ElasticSearch. 
+	Design og udvikling af service component til alt redaktionelt indhold. Søgning blev	understøttet af replikering til ElasticSearch.
+  **Udviklings miljø** Java, PostgreSQL, Jetty, ElasticSearch. 
   
 * **ESB**
 	Valg af ESB miljø samt efterfølgende implementering af poc. Projektet stoppet pga funding og nådede kun delvis i mål. Erfaring opnået med Camel.
@@ -188,7 +191,7 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
 		
 * **H1**
 	TappeHal1. Design og implmentering af løsning til opsamling af data fra 	produktionsapperat på decentral computer	
-	**Udviklings miljø** COBOL, HoneywellBull.
+	**Udviklings miljø** COBOL, Honeywell Bull.
 
 	
 	
@@ -292,5 +295,5 @@ Design og implementering af services til fælles EPG på tværs af klienter i TV
 ------	
 ### Civilstand
 	
-* Gift med Kirsten(Pædagog) og far til Amalie(28, Cand.mag. Art), Kristian(26, Stud. IT Diplomingeniør) og Anders(19, Værnepligtig)	
+* Gift med Kirsten(Pædagog) og far til Amalie(28, Cand.mag. Art), Kristian(26, Stud. IT Diplomingeniør) og Anders(20, Værnepligtig)	
 	
