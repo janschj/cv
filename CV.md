@@ -35,14 +35,14 @@ Kompetent og erfaren udvikler med bred projekt erfaring fra udvikling over arkit
 1. Rest JAX-RS / Jersey 2
 2. Apache Camel
 1. Json/XML/XSLT
-1. Jetty
+1. Jetty/Tomcat
 1. PostgreSQL / MySQL / Elasticsearch
 1. Github 
 1. Gradle/Maven
 1. Docker, Rancher
 2. Eclipse, IntelliJ
 2. Jira, Confluence
-3. Spring-boot
+3. Spring Boot
 
 
 ------
