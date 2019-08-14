@@ -39,7 +39,7 @@ Kompetent og erfaren udvikler med bred projekt erfaring fra udvikling over arkit
 1. PostgreSQL / MySQL / Elasticsearch
 1. Github 
 1. Gradle/Maven
-1. Docker, Rancher
+1. Docker, Rancher, Openshift
 2. Eclipse, IntelliJ
 2. Jira, Confluence
 3. Spring Boot
@@ -51,9 +51,8 @@ Kompetent og erfaren udvikler med bred projekt erfaring fra udvikling over arkit
 
 ### Erhvervserfaring
 
-**Dynamic** *Konsulent* __2018 til 2018__
-	Design og implementering af dashboard til medie bureauer.
-**Udviklings miljø** Java, Spring Boot, Tomcat, MySQL, Cassandra.
+**Freelance** *Konsulent* __2018 
+	Løsningsarkitekt, Java udvikler, Mentor. 
 
 **TV 2** *Mobil arkitekt* __2013 til 2017__
 	Design og udvikling af REST API, SOA/Microservices til forskelligt content.
@@ -101,6 +100,14 @@ Virksomhedsoverdraget til Teledanmark.
 ------
 
 ### Projekter
+* **Openbanking XS2A**
+Udvikling af REST API, microservices til konto forespørgsel og betaling via trediepart.
+ **Udviklings miljø** Java, Spring
+ 
+* **DRIP Opgradering**
+Opgradering af Weblogic/Camel integrationsplatform.
+ **Udviklings miljø** Java, Apache Camel, Spring DSL, Weblogic
+ 
 * **Dashboard**
 Design og udvikling af dashboard til brug for reklame bureauer. Integration til Facebook, Adwords samt andre reklame platforme.
  **Udviklings miljø** Java, Maven, PostgreSQL, Tomcat, Spring-boot, JPA, Docker.
@@ -295,5 +302,5 @@ Design og udvikling af REST services til fælles EPG på tværs af klienter i TV
 ------	
 ### Civilstand
 	
-* Gift med Kirsten(Pædagog) og far til Amalie(28, Cand.mag. Art), Kristian(26, Stud. IT Diplomingeniør) og Anders(20, Værnepligtig)	
+* Gift med Kirsten(Pædagog) og far til Amalie(30, Cand.mag. Art), Kristian(28, IT Diplomingeniør) og Anders(21, Stud. Softwareingeniør)	
 	
